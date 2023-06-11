@@ -28,6 +28,10 @@
   <a href="https://expressjs.com/pt-br/" target="_blank">
     <img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   </a>
+ 
+  <a href="https://storybook.js.org" target="_blank">
+    <img align="center" alt="Express.js" src="https://img.shields.io/badge/Storybook-F34885?style=for-the-badge">
+  </a>
 </div>
   
   ##
