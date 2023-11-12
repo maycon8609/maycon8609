@@ -1,71 +1,31 @@
-## I am maycon silva
- <div>
-  <a href="https://github.com/maycon8609">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycon8609&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycon8609&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-<div style="display: flex;gap: 4px;flex-wrap: wrap;"><br>
-  <a href="https://react.dev" target="_blank">
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a>
+# 💫 About Me:
+I'm Maycon Silva.<br>I'm a front-end tech lead for a design system  team.<br>I work daily with react, jest, testing library, storybook and others.
 
-  <a href="https://jestjs.io/pt-BR/" target="_blank">
-    <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-3DC212?style=for-the-badge">
-  </a>
 
-  <a href="https://testing-library.com/" target="_blank">
-    <img align="center" alt="testing-library" src="https://img.shields.io/badge/testing_library-DA2E2D?style=for-the-badge">
-  </a>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ms-sousa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@maycon8609) 
 
-  <a href="https://storybook.js.org" target="_blank">
-    <img align="center" alt="storybook" src="https://img.shields.io/badge/Storybook-F34885?style=for-the-badge">
-  </a>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=maycon8609&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maycon8609&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-  <a href="https://styled-components.com" target="_blank">
-    <img align="center" alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  </a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=maycon8609&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-  <a href="https://xstyled.dev" target="_blank">
-    <img align="center" alt="xstyled" src="https://img.shields.io/badge/xstyled-BE185D?style=for-the-badge">
-  </a>
+---
+[![](https://visitcount.itsvg.in/api?id=maycon8609&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  <a href="https://webpack.js.org/" target="_blank">
-    <img align="center" alt="Webpack" src="https://img.shields.io/badge/Webpack-549AC8?style=for-the-badge">
-  </a>
-
-  <a href="https://www.conventionalcommits.org/en/v1.0.0/" target="_blank">
-    <img align="center" alt="Conventional Commits" src="https://img.shields.io/badge/Conventional_Commits-F35A87?style=for-the-badge">
-  </a>
-
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
-
-  <a href="https://nodejs.org/en/about" target="_blank">
-    <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  </a>
-
-  <a href="https://expressjs.com/pt-br/" target="_blank">
-    <img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  </a>
-
-  <a href="https://reactnative.dev" target="_blank">
-    <img align="center" alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a>
-
-  <a href="https://angularjs.org" target="_blank">
-    <img align="center" alt="Angular.js" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
-  </a>
-</div>
-
-  ##
-
-<div>
-  <a href="https://www.linkedin.com/in/ms-sousa" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
