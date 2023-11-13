@@ -21,11 +21,3 @@ I'm Maycon Silva.<br>I'm a front-end tech lead for a design system  team.<br>I w
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maycon8609&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maycon8609&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=maycon8609&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=maycon8609&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
