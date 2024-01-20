@@ -20,4 +20,4 @@ I'm Maycon Silva.<br>I'm a front-end tech lead for a design system  team.<br>I w
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maycon8609&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maycon8609&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maycon8609&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
