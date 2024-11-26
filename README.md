@@ -1,11 +1,14 @@
-# 💫 About Me:
-I'm Maycon Silva.<br>I'm a front-end tech lead for a design system  team.<br>I work daily with react, jest, testing library, storybook and others.
+<h1>Hi There! 👋</h1>
 
+## My name is Maycon Silva
+(React | NextJS | NestJS | React Native | Node | Spring boot | Go | Typescript | Full stack | Design System)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ms-sousa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@maycon8609) 
+[![javascript](https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin)]([https://www.javascript.com/](https://linkedin.com/in/ms-sousa))
+[![javascript](https://img.shields.io/badge/Medium-030712?style=for-the-badge&logo=medium)]([https://www.javascript.com/](https://medium.com/@@maycon8609))
+[![Gmail Badge](https://img.shields.io/badge/-gmail-030712?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maycon8609@gmail.com)](mailto:maycon8609@gmail.com)
 
-# 💻 Tech Stack:
+<h2 align="center">Technologies</h2>
+<br>
 
 [![javascript](https://img.shields.io/badge/javascript-030712?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 [![typescript](https://img.shields.io/badge/typescript-030712?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -36,6 +39,21 @@ I'm Maycon Silva.<br>I'm a front-end tech lead for a design system  team.<br>I w
 [![nodejs](https://img.shields.io/badge/node.js-030712?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/pt)
 [![webpack](https://img.shields.io/badge/webpack-030712?style=for-the-badge&logo=webpack)](https://webpack.js.org/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=maycon8609&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maycon8609&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=maycon8609&color=blueviolet&style=plastic)
+  
+</div>
+
+---
+
+<div align="center">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=maycon8609&show_icons=true&theme=dracula"> 
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycon8609&layout=compact&theme=dracula"> 
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maycon8609&theme=dracula" alt="maycon silva" />
+</div>
