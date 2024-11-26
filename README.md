@@ -3,8 +3,8 @@
 ## My name is Maycon Silva
 (React | NextJS | NestJS | React Native | Node | Spring boot | Go | Typescript | Full stack | Design System)
 
-[![javascript](https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin)]([https://www.javascript.com/](https://linkedin.com/in/ms-sousa))
-[![javascript](https://img.shields.io/badge/Medium-030712?style=for-the-badge&logo=medium)]([https://www.javascript.com/](https://medium.com/@@maycon8609))
+[![javascript](https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ms-sousa)
+[![javascript](https://img.shields.io/badge/Medium-030712?style=for-the-badge&logo=medium)](https://medium.com/@@maycon8609)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-030712?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maycon8609@gmail.com)](mailto:maycon8609@gmail.com)
 
 <h2 align="center">Technologies</h2>
