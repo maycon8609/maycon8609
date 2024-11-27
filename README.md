@@ -1,7 +1,7 @@
 <h1>Hi There! 👋</h1>
 
 ## My name is Maycon Silva
-(React | NextJS | NestJS | React Native | Node | Spring boot | Go | Typescript | Full stack | Design System)
+(React | NextJS | NestJS | React Native | Node | Java | Spring boot | Go | Typescript | Full stack | Design System)
 
 [![javascript](https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ms-sousa)
 [![javascript](https://img.shields.io/badge/Medium-030712?style=for-the-badge&logo=medium)](https://medium.com/@@maycon8609)
